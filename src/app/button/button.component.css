@@ -1,0 +1,14 @@
+button {
+  background-color: var(--clr2);
+  border: transparent;
+  padding: 0.3rem 3rem;
+  border-radius: 0.3rem;
+  color: var(--clr4);
+  cursor: pointer;
+}
+
+.large {
+  padding: 0.7rem 4.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.5rem;
+}

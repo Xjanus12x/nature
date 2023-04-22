@@ -1,0 +1,23 @@
+footer {
+    padding: 4rem;
+  }
+
+.container-fluid{
+    background-color: var(--clr2);
+    color: var(--clr4);
+}
+
+h5, p{
+    text-align: center;
+    color: var(--clr4);
+    font-weight: var(--fw-medium);
+}
+
+h5{
+    font-weight: lighter;
+    font-size: 0.9rem;
+}
+
+p{
+    font-weight: var(--fw-bold);
+}
